@@ -2,7 +2,7 @@
 <html lang="en"><head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Phí Phương Uyên - 21080344</title>
+    <title>Phí Phương Uyn - 21080344</title>
     <link rel="stylesheet" href="./styles.css">
 <style>.--savior-overlay-transform-reset {
   transform: none !important;
